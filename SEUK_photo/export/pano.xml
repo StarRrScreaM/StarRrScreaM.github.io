@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.14" start="node1" apprev="18105">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="13">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:15" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node1" heading="13" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-176.43" url="{node3}" skinid="ht_node" description="" tilt="-7.05" id="Point01" target=""/>
+      <hotspot title="" pan="-357.24" url="{node4}" skinid="ht_node" description="Лестница 1ый этаж" tilt="-2.55" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="49">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:14" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node2" heading="49" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-164.99" url="{node3}" skinid="ht_node" description="" tilt="-10.2" id="Point01" target=""/>
+      <hotspot title="" pan="-206.51" url="{node1}" skinid="ht_node" description="" tilt="-3.43" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" width="2739" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2739">
+      <level width="2739" predecode="0" preload="0" height="2739"/>
+      <level width="1369" predecode="0" preload="0" height="1369"/>
+      <level width="684" predecode="0" preload="0" height="684"/>
+      <level width="342" predecode="1" preload="1" height="342"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="345">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:12" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node3" heading="345" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-358.28" url="{node1}" skinid="ht_node" description="" tilt="-8.82" id="Point01" target=""/>
+      <hotspot title="" pan="-72.38" url="{node2}" skinid="ht_node" description="" tilt="-7.6" id="Point02" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="212">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:11" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node4" heading="212" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-191.12" url="{node9}" skinid="ht_node" description="" tilt="-0.24" id="Point01" target=""/>
+      <hotspot title="" pan="-357.71" url="{node1}" skinid="ht_node" description="" tilt="-1.54" id="Point02" target=""/>
+      <hotspot title="" pan="-337.14" url="{node8}" skinid="ht_node" description="" tilt="43.89" id="Point03" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="152">
+      <start pan="-46" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:09" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node5" heading="152" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-88.57" url="{node5}" skinid="ht_node" description="" tilt="-0.5" id="Point01" target=""/>
+      <hotspot title="" pan="-69.84" url="{node4}" skinid="ht_node" description="" tilt="-29.47" id="Point02" target=""/>
+      <hotspot title="" pan="-43.03" url="{node8}" skinid="ht_node" description="" tilt="-6.28" id="Point03" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="187">
+      <start pan="43" projection="4" fov="70" tilt="-7"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:07" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node6" heading="187" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-278.09" url="{node5}" skinid="ht_node" description="" tilt="-9.21" id="Point01" target=""/>
+      <hotspot title="" pan="-312.46" url="{node8}" skinid="ht_node" description="" tilt="-8.17" id="Point02" target=""/>
+      <hotspot title="" pan="-287.16" url="{node4}" skinid="ht_node" description="" tilt="-36.64" id="Point03" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0">
+      <clip animtitle="Animation01" length="100" cliptitle="Clip01" nextclipstartview="43/-7/70/4" animtype="0" nextclipnodeid="node6" transitiontype="0" nextcliptitle="Clip01" nodeid="">
+        <keyframe type="0" value="43" time="0" property="0" transitiontime="0" valuestring="" additionaltrackid=""/>
+        <keyframe type="0" value="-7" time="0" property="1" transitiontime="0" valuestring="" additionaltrackid=""/>
+        <keyframe type="0" value="70" time="0" property="2" transitiontime="0" valuestring="" additionaltrackid=""/>
+        <keyframe type="0" value="4" time="0" property="3" transitiontime="0" valuestring="" additionaltrackid=""/>
+      </clip>
+    </animation>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="22">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:04" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node7" heading="22" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-359.43" url="{node8}" skinid="ht_node" description="" tilt="-3.59" id="Point01" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="188">
+      <start pan="0" projection="4" fov="70" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 15:06" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node8" heading="188" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-138.88" url="{node6}" skinid="ht_node" description="" tilt="-8.48" id="Point01" target=""/>
+      <hotspot title="" pan="-220.15" url="{node5}" skinid="ht_node" description="" tilt="-7.35" id="Point02" target=""/>
+      <hotspot title="" pan="-194.13" url="{node4}" skinid="ht_node" description="" tilt="-58.16" id="Point03" target=""/>
+      <hotspot title="" pan="-0.17" url="{node7}" skinid="ht_node" description="" tilt="-10.09" id="Point04" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" width="2176" levelbias="0.400" overlap="1" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0" height="2176">
+      <level width="2176" predecode="0" preload="0" height="2176"/>
+      <level width="1088" predecode="0" preload="0" height="1088"/>
+      <level width="544" predecode="0" preload="0" height="544"/>
+      <level width="272" predecode="1" preload="1" height="272"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="27" projection="4" fov="50" tilt="4"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fov="120" tilt="90" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" latitude="" source="" datetime="19.05.2023 17:51" longitude="" tags="Pano2VR Pro 6.1.14 RePack (&amp; Portable) by TryRooM" description="" author="" info="" copyright="" nodeid="node9" heading="0" customnodeid=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" textcolor="0x000000" wordwrap="1" bordercolor="0x000000" borderradius="1" border="1" background="1" borderalpha="1" backgroundalpha="1" height="20" backgroundcolor="0xffffff" textalpha="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot title="" pan="-111.21" url="{node4}" skinid="ht_node" description="Вход в контейнер&#xa;" tilt="4.03" id="Point01" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomin="0" zoomoutpause="1" softedge="0" zoomfov="20" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomout="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control sensitivity="8" invertwheel="0" dblclickfullscreen="0" contextvr="1" simulatemass="1" speedwheel="1" contextprojections="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" latitude="" source="" datetime="" longitude="" tags="" description="" author="" info="" copyright="" nodeid="master" heading="0" customnodeid=""/>
+  </masternode>
+</tour>
