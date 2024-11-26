@@ -1,3 +1,4 @@
+lastUpdateTime: 2024-11-22 12:00
 temperatureRegexRu: /<div[^>]*class="[^"]*temp[^"]*fact__temp[^"]*"[^>]*>\s*<span[^>]*class="[^"]*temp__value[^"]*"[^>]*>([\+\-−]?\d+)<\/span>/i
 feelsLikeRegexRu: /<div class="term__value"><div class="temp" role="text"><span class="temp__value[^>]*>([\+\-−]?\d+)<\/span><\/div><\/div>/i
 temperatureMaxRegexRu: /forecast-briefly__temp_day[^>]*>\s*<span[^>]*>\s*днём<\/span>\s*<span[^>]*>([\+\-−]?\d+)/
@@ -21,7 +22,6 @@ regexHumidityRu: /<i[^>]*humidity[^>]*>.*?<\/i>\s*<\/td>\s*<td[^>]*detailed-data
 regexPressureRu: /<i[^>]*pressure[^>]*>.*?<\/i>\s*<\/td>\s*<td[^>]*detailed-data-table[^>]*>(\d+)\s*мм\s*рт\.\s*ст\.<\/td>/
 regexWindSpeedRu: /<i[^>]*wind[^>]*>.*?<\/i>\s*<\/td>\s*<td[^>]*detailed-data-table[^>]*>\s*<div[^>]*wind-speed[^>]*>([\d.]+)<\/div>\s*м\/с/
 regexWindTitleRu: /<abbr[^>]*>([^<]+)<\/abbr>/
-
 temperatureRegexCom: /<p class="AppFactTemperature_wrap__[\w_]+".*?>.*?<span class="AppFactTemperature_sign__[\w_]+">([+-−]?)<\/span>.*?<span class="AppFactTemperature_value__[\w_]+">(\d+)<\/span>.*?[°F]<\/p>/
 feelsLikeRegexCom: /<span class="AppFact_feels__[\w\s]+">Feels like ([+-−]?\d+)[°F]<\/span>/
 temperatureMaxMinCom: /class="[^"]*AppShortForecastDay_temperature[^"]*">([\+\-−]?\d+)°.*?class="[^"]*AppShortForecastDay_temperature[^"]*">([\+\-−]?\d+)°/
@@ -45,6 +45,5 @@ regexHumidityCom: /<i[^>]*humidity[^>]*>.*?<\/i>\s*<\/td>\s*<td[^>]*detailed-dat
 regexPressureCom: /<i[^>]*pressure[^>]*>.*?<\/i>\s*<\/td>\s*<td[^>]*detailed-data-table[^>]*>(\d+)\s*mmHg<\/td>/
 regexWindSpeedCom: /<i[^>]*wind[^>]*>.*?<\/i>\s*<\/td>\s*<td[^>]*detailed-data-table[^>]*>\s*<div[^>]*wind-speed[^>]*>([\d.]+)<\/div>\s*m\/s/
 regexWindTitleCom: /<abbr[^>]*title="[^"]+">([^<]+)<\/abbr>/
-
 capchaRegexRu: /<a\s+color="secondary"[^>]*href="https:\/\/cloud\.yandex\.com\/services\/smartcaptcha[^"]*"[^>]*>(SmartCaptcha by Yandex Cloud)<\/a>/i
 capchaRegexCom: /<a\s+color="secondary"[^>]*href="https:\/\/cloud\.yandex\.ru\/services\/smartcaptcha[^"]*"[^>]*>(SmartCaptcha by Yandex Cloud)<\/a>/i
