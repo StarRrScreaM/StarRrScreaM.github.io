@@ -14,7 +14,7 @@
     "humidity": 87,
     "pressure": 759,
     "uvi": 0,
-    "timeZone": -180,
+    "timeZone": 180,
     "sunriseTime": "07:37",
     "sunsetTime": "15:57",
     "weatherIcon": 5,
