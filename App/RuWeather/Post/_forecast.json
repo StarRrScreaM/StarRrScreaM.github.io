@@ -1,6 +1,6 @@
 {
     "city": "Ройал-Боро-оф-Гринвич, Лондон",
-    "timeZone": -180,
+    "timeZone": 180,
     "weatherTime": 1732716229474,
     "weatherTimeStr": "2024-11-27 17:03",
     "forecast": [{
