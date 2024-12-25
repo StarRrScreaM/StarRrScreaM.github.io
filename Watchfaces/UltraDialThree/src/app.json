@@ -1,0 +1,111 @@
+{
+    "configVersion": "v2",
+    "app": {
+        "appId": 58534561,
+        "appName": "UltraDialThree",
+        "appType": "watchface",
+        "version": {
+            "code": 1,
+            "name": "1.0"
+        },
+        "vender": "StarRrScreaM",
+        "description": "UltraDialThree",
+        "icon": "Preview.png",
+        "cover": [
+            "Preview.png"
+        ],
+        "extraInfo": {
+            "madeBy": 1
+        }
+    },
+    "permissions": [
+        "gps"
+    ],
+    "runtime": {
+        "apiVersion": {
+            "compatible": "1.0.0",
+            "target": "1.0.1",
+            "minVersion": "1.0.0"
+        }
+    },
+    "targets": {
+        "gtr-4": {
+            "module": {
+                "watchface": {
+                    "path": "watchface/amazfit-gtr-4/index",
+                    "main": 1,
+                    "editable": 1,
+                    "lockscreen": 1,
+                    "hightCost": 0
+                }
+            },
+            "platforms": [
+                {
+                    "name": "Amazfit GTR 4",
+                    "deviceSource": 7930112
+                },
+                {
+                    "name": "Amazfit GTR 4",
+                    "deviceSource": 7930113
+                }
+            ],
+            "designWidth": 466
+        },
+        "balance": {
+            "module": {
+                "watchface": {
+                    "path": "watchface/amazfit-balance/index",
+                    "main": 1,
+                    "editable": 0,
+                    "lockscreen": 1,
+                    "hightCost": 0
+                }
+            },
+            "platforms": [
+                {
+                    "name": "Amazfit Balance",
+                    "deviceSource": 8519936
+                },
+                {
+                    "name": "Amazfit Balance",
+                    "deviceSource": 8519937
+                },
+                {
+                    "name": "Amazfit Balance",
+                    "deviceSource": 8519939
+                }
+            ],
+            "designWidth": 480
+        },
+        "gtr-3-pro": {
+            "module": {
+                "watchface": {
+                    "path": "watchface/amazfit-gtr-3-pro/index",
+                    "main": 1,
+                    "editable": 0,
+                    "lockscreen": 1,
+                    "hightCost": 0
+                }
+            },
+            "platforms": [
+                {
+                    "name": "Amazfit GTR 3 PRO",
+                    "deviceSource": 229
+                },
+                {
+                    "name": "Amazfit GTR 3 PRO",
+                    "deviceSource": 230
+                }
+            ],
+            "designWidth": 480
+        }
+    },
+    "i18n": {
+        "en-US": {
+            "icon": "Preview.png",
+            "appName": "UltraDialThree"
+        }
+    },
+    "defaultLanguage": "en-US",
+    "debug": false
+}
