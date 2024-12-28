@@ -1,1 +1,0 @@
-import '../amazfit-gtr-4/index'
