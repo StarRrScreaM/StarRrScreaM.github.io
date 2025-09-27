@@ -1,2 +1,0 @@
-current_ver=1.2.6
-last_update=26.09.2025
