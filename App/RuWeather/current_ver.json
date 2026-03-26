@@ -1,5 +1,5 @@
 {
-  "version": "1.2.9",
-  "last_updated": "2026-03-02",
-  "changelog": " -fix yandex Weather\nExtended Description "
+  "version": "1.3.0",
+  "last_updated": "2026-03-26",
+  "changelog": " -fix parsing city and\ncoordinates from the watch\n -[MAJOR] added an option receiving\nphone gps coordinates via\nthe AmazSync Android App"
 }
